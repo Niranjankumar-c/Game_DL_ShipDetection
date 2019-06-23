@@ -1,28 +1,20 @@
-# DeepLearning-PadhAI
-
-<p align="center"><img width="40%" src="1_assests/logo.png" /></p>
+# Analytics Vidhya - Game of Deep Learning || Computer Vision Hackathon
+ - Competition Link: https://datahack.analyticsvidhya.com/contest/game-of-deep-learning/
 
 --------------------------------------------------------------------------------
+# Problem Statement
+Ship or vessel detection has a wide range of applications, in the areas of maritime safety, fisheries management, marine pollution, defence and maritime security, protection from piracy, illegal migration, etc.
 
-This repository contains the code files taught from the deep learning course from [PadhAI](https://padhai.onefourthlabs.in/).
+Keeping this in mind, a Governmental Maritime and Coastguard Agency is planning to deploy a computer vision based automated system to identify ship type only from the images taken by the survey boats. You have been hired as a consultant to build an efficient model for this project.
 
-## Repository Structure
-Each folder inside the repo contains the code for the respective topic and has support to execute the code directly in Google colab and Kaggle Kernels without worrying about installing the dependencies
+There are 5 classes of ships to be detected which are as follows:
 
-## Table of Contents
-* [ActivationFunction_WeightMethods](DeepLearning_Materials/1_ActivationFunction_WeightMethods): This folder contains the code for analysis the different activation functions and weight initialisation methods. Check out the [blog post](https://towardsdatascience.com/implementing-different-activation-functions-and-weight-initialization-methods-using-python-c78643b9f20f?source=friends_link&sk=a01c0daa99d57ea6c45fff6aaace2b8a)
-* [PytorchIntro](DeepLearning_Materials/2_GettingStarted_With_Pytorch): This folder provides tutorial code for deep learning researchers to learn PyTorch. Check out the [blog post](https://hackernoon.com/getting-started-with-pytorch-in-google-collab-with-free-gpu-61a5c70b86a)
-
-
-Jupyter Notebook in Colab: [![Click here to open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Niranjankumar-c/DeepLearning-PadhAI/blob/master/ActivationFunction_WeightMethods/InitialisationActivationFunctions.ipynb)
-
-<br/>
-
-## Getting Started
-```bash
-$ git clone https://github.com/Niranjankumar-c/DeepLearning-PadhAI.git
-$ cd DeepLearning-PadhAI/
-```
+* Cargo
+* Military
+* Carrier
+* Cruise
+* Tankers
+<img src=https://datahack.analyticsvidhya.com/media/__sized__/contest_cover/god_2-thumbnail-1200x1200-90.jpg>
 
 ## Dependencies
 * [Python 3.5+](https://www.continuum.io/downloads)

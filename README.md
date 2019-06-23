@@ -69,5 +69,9 @@ Public leaderboard is based on randomly selected 30% of the test images, while p
 ## Score
 - private LB Score - 0.504 (Rank - 386/2083)
 
+## To-DO
+- Using Keras for knowledge
+- Using Fastai for knowledge
+
 ## Author
 NiranjanKumar [@niranjankumar-c](https://github.com/Niranjankumar-c)

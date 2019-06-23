@@ -1,5 +1,8 @@
 # Analytics Vidhya - Game of Deep Learning || Computer Vision Hackathon
  - Competition Link: https://datahack.analyticsvidhya.com/contest/game-of-deep-learning/
+ 
+## Kaggle Public Kernel
+Checkout my kaggle kernel :https://www.kaggle.com/niranjankumarc/game-of-deep-learning-computer-vision-hackathon
 
 --------------------------------------------------------------------------------
 # Problem Statement
